@@ -1773,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:12:06 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/fox_black": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
@@ -1807,6 +1813,12 @@
   "slashblade:material/proudsoul": {
     "criteria": {
       "BrokenBlade": "2025-01-23 18:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:12:06 +0000"
     },
     "done": true
   },
@@ -1921,6 +1933,12 @@
   "slashblade:recipes/combat/slashblade_silverbamboo": {
     "criteria": {
       "has_slashblade_bamboo": "2025-01-23 18:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:12:06 +0000"
     },
     "done": true
   },
@@ -2041,6 +2059,12 @@
   "slashblade:blade/s_silverbamboo": {
     "criteria": {
       "crafting": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 19:11:01 +0000"
     },
     "done": true
   },

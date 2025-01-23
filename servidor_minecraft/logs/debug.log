@@ -2017,3 +2017,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jan2025 19:05:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
 [23Jan2025 19:06:13.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 19:06:13.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 19:11:13.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:11:13.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 19:16:13.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:16:13.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 19:18:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
+[23Jan2025 19:21:13.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:21:13.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

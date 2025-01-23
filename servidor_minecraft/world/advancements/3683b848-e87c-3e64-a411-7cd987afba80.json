@@ -908,5 +908,17 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-01-23 18:52:14 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-01-23 18:52:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

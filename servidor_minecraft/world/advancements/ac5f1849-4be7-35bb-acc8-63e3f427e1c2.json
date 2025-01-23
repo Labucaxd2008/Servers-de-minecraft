@@ -14,6 +14,7 @@
       "minecraft:river": "2025-01-18 20:40:20 +0000",
       "minecraft:snowy_plains": "2025-01-18 22:03:17 +0000",
       "minecraft:snowy_taiga": "2025-01-18 07:21:17 +0000",
+      "minecraft:grove": "2025-01-23 18:47:40 +0000",
       "minecraft:cold_ocean": "2025-01-20 01:11:30 +0000",
       "minecraft:forest": "2025-01-18 20:08:15 +0000",
       "minecraft:lush_caves": "2025-01-20 00:48:04 +0000",
@@ -1839,6 +1840,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-01-23 18:48:56 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/orotiagito_sealed": {
     "criteria": {
       "has_proudsoul": "2025-01-23 18:34:46 +0000"
@@ -1911,6 +1918,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-01-23 18:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-01-23 18:39:46 +0000"
@@ -1965,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 18:52:00 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/agito": {
     "criteria": {
       "has_proudsoul": "2025-01-23 18:34:46 +0000"
@@ -1974,6 +1993,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-01-23 18:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 18:52:00 +0000"
     },
     "done": true
   },

@@ -443,3 +443,9 @@
 [23Jan2025 19:30:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 left the game
 [23Jan2025 19:30:51.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebastt22[/172.27.152.199:54688] logged in with entity id 13426 at (-274.8569281615327, 63.0, 33.21505922654302)
 [23Jan2025 19:30:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 joined the game
+[23Jan2025 19:33:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -270.500000, 63.500000, 33.500000]
+[23Jan2025 19:34:31.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andybear31[/172.27.185.140:62209] logged in with entity id 14364 at (-273.73060236185916, 63.0, 33.80989315294055)
+[23Jan2025 19:34:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 joined the game
+[23Jan2025 19:38:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 was poked to death by a sweet berry bush
+[23Jan2025 19:38:34.511] [Server thread/INFO] [tombstone/]: The player andybear31 has successfully been saved
+[23Jan2025 19:38:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set the time to 1000]

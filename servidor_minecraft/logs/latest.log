@@ -451,3 +451,7 @@
 [23Jan2025 19:38:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set the time to 1000]
 [23Jan2025 19:48:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set the time to 1000]
 [23Jan2025 19:48:48.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
+[23Jan2025 19:51:39.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
+[23Jan2025 19:57:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set the time to 1000]
+[23Jan2025 19:59:19.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andybear31 lost connection: Disconnected
+[23Jan2025 19:59:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 left the game

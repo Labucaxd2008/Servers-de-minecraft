@@ -20,6 +20,7 @@
       "minecraft:frozen_ocean": "2025-01-20 00:56:29 +0000",
       "minecraft:desert": "2025-01-23 18:32:37 +0000",
       "minecraft:snowy_beach": "2025-01-19 08:38:09 +0000",
+      "minecraft:meadow": "2025-01-23 18:45:27 +0000",
       "minecraft:plains": "2025-01-18 20:41:23 +0000"
     },
     "done": false
@@ -1771,10 +1772,34 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-23 18:39:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-01-23 18:42:20 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_bamboo": {
     "criteria": {
       "has_slashblade_wood": "2025-01-23 18:34:46 +0000",
       "has_the_recipe": "2025-01-23 18:34:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-01-23 18:38:59 +0000"
     },
     "done": true
   },
@@ -1790,9 +1815,27 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/tagayasan": {
     "criteria": {
       "has_slashblade_wood": "2025-01-23 18:34:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-01-23 18:42:33 +0000"
     },
     "done": true
   },
@@ -1802,9 +1845,81 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-01-23 18:42:28 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-01-23 18:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-01-23 18:42:20 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_white": {
     "criteria": {
       "has_slashblade_wood": "2025-01-23 18:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-23 18:39:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-01-23 18:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
     },
     "done": true
   },
@@ -1820,9 +1935,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-23 18:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-01-23 18:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-01-23 18:46:08 +0000"
     },
     "done": true
   },
@@ -1838,9 +1977,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-23 18:32:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-23 18:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-23 18:39:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2025-01-23 18:40:03 +0000"
     },
     "done": true
   },

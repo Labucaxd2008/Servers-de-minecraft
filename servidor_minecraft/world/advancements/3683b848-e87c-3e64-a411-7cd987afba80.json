@@ -914,6 +914,12 @@
     },
     "done": true
   },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-01-23 18:52:14 +0000"
+    },
+    "done": true
+  },
   "slashblade:material/proudsoul": {
     "criteria": {
       "BrokenBlade": "2025-01-23 18:56:41 +0000"
@@ -923,12 +929,6 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-23 18:56:41 +0000"
-    },
-    "done": true
-  },
-  "slashblade:root": {
-    "criteria": {
-      "attackTheEntity": "2025-01-23 18:52:14 +0000"
     },
     "done": true
   },

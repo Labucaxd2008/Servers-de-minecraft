@@ -424,3 +424,22 @@
 [23Jan2025 18:56:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 has made the advancement [Alex's Mobs]
 [23Jan2025 19:05:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
 [23Jan2025 19:18:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to andybear31]
+[23Jan2025 19:26:28.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andybear31 lost connection: Timed out
+[23Jan2025 19:26:28.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 left the game
+[23Jan2025 19:26:28.415] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jan2025 19:27:53.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andybear31[/172.27.185.140:61659] logged in with entity id 13023 at (-273.73060236185916, 63.0, 33.80989315294055)
+[23Jan2025 19:27:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 joined the game
+[23Jan2025 19:28:38.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set the time to 1000]
+[23Jan2025 19:28:45.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andybear31 lost connection: Disconnected
+[23Jan2025 19:28:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 left the game
+[23Jan2025 19:29:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Knowledge of Death]
+[23Jan2025 19:29:02.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Ashes 'n Bones]
+[23Jan2025 19:29:11.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andybear31[/172.27.185.140:61750] logged in with entity id 13222 at (-273.73060236185916, 63.0, 33.80989315294055)
+[23Jan2025 19:29:11.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 joined the game
+[23Jan2025 19:29:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Knowledge raises the soul]
+[23Jan2025 19:29:58.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andybear31 lost connection: Disconnected
+[23Jan2025 19:29:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 left the game
+[23Jan2025 19:30:40.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebastt22 lost connection: Timed out
+[23Jan2025 19:30:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 left the game
+[23Jan2025 19:30:51.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebastt22[/172.27.152.199:54688] logged in with entity id 13426 at (-274.8569281615327, 63.0, 33.21505922654302)
+[23Jan2025 19:30:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 joined the game

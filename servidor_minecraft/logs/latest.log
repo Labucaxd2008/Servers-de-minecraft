@@ -74,3 +74,15 @@
 [24Jan2025 22:18:48.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 joined the game
 [24Jan2025 22:25:12.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andybear31[/172.27.185.140:65478] logged in with entity id 1749 at (-262.89823132183403, 63.0, 4.300000011920929)
 [24Jan2025 22:25:12.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 joined the game
+[24Jan2025 22:41:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [Strong or Careful]
+[24Jan2025 22:41:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 was slain by andybear31
+[24Jan2025 22:41:05.283] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
+[24Jan2025 22:41:06.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [The Most Useful Key]
+[24Jan2025 22:41:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [A Fast Comeback]
+[24Jan2025 22:41:22.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andybear31 was slain by Zombie
+[24Jan2025 22:41:22.862] [Server thread/INFO] [tombstone/]: The player andybear31 has successfully been saved
+[24Jan2025 22:41:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported andybear31 to sebastt22]
+[24Jan2025 22:46:31.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebastt22 lost connection: Disconnected
+[24Jan2025 22:46:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 left the game
+[24Jan2025 22:46:35.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebastt22[/172.27.152.199:60562] logged in with entity id 5330 at (-271.4735922350683, 64.0, 39.70660253557545)
+[24Jan2025 22:46:35.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 joined the game

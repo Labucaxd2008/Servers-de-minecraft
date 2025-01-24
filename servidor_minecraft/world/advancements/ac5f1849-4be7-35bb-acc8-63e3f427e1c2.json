@@ -2086,9 +2086,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "coded_trigger": "2025-01-24 22:41:14 +0000"
+      "has_peony": "2025-01-24 22:32:40 +0000"
     },
     "done": true
   },
@@ -2104,9 +2104,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_peony": "2025-01-24 22:32:40 +0000"
+      "coded_trigger": "2025-01-24 22:41:14 +0000"
     },
     "done": true
   },

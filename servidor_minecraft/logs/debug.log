@@ -1503,3 +1503,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 22:46:35.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebastt22[/172.27.152.199:60562] logged in with entity id 5330 at (-271.4735922350683, 64.0, 39.70660253557545)
 [24Jan2025 22:46:35.219] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@f220683 into net.minecraft.network.Connection@1678f05b
 [24Jan2025 22:46:35.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 joined the game
+[24Jan2025 22:48:31.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 22:48:31.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 22:52:44.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 was blown up by Creeper
+[24Jan2025 22:52:44.268] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebastt22 was created at position [x:-170, y:-23, z:173, dim:minecraft:overworld]
+[24Jan2025 22:52:44.276] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
+[24Jan2025 22:53:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -169.500000, -23.500000, 174.500000]
+[24Jan2025 22:53:31.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 22:53:31.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 22:58:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -270.500000, 63.500000, 33.500000]

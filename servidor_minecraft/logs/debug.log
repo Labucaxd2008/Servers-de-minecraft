@@ -1512,3 +1512,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 22:53:31.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jan2025 22:53:31.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jan2025 22:58:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -270.500000, 63.500000, 33.500000]
+[24Jan2025 22:58:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 was slain by Zombie
+[24Jan2025 22:58:21.053] [Server thread/DEBUG] [tombstone/]: A new grave of the player sebastt22 was created at position [x:-261, y:63, z:12, dim:minecraft:overworld]
+[24Jan2025 22:58:21.057] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
+[24Jan2025 22:58:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [Here They Come]
+[24Jan2025 22:58:31.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 22:58:31.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 23:03:31.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 23:03:31.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

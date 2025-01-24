@@ -90,3 +90,6 @@
 [24Jan2025 22:52:44.276] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
 [24Jan2025 22:53:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -169.500000, -23.500000, 174.500000]
 [24Jan2025 22:58:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to -270.500000, 63.500000, 33.500000]
+[24Jan2025 22:58:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 was slain by Zombie
+[24Jan2025 22:58:21.057] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
+[24Jan2025 22:58:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [Here They Come]

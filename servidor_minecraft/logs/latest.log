@@ -809,3 +809,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [05Sep2025 21:13:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> PEGALE LELA
 [05Sep2025 21:13:25.361] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raquel}[style={}] has been infected
+[05Sep2025 21:17:32.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Hot Stuff]
+[05Sep2025 21:26:18.662] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raquel}[style={}] has been infected
+[05Sep2025 21:26:21.663] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raquel}[style={}] has been infected

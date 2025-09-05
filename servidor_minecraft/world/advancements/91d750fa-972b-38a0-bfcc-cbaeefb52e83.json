@@ -3534,6 +3534,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-09-05 21:32:27 +0000",
+      "minecraft:creeper": "2025-09-05 21:32:36 +0000",
+      "minecraft:enderman": "2025-09-05 21:25:49 +0000",
       "minecraft:zombie": "2025-09-05 03:41:30 +0000"
     },
     "done": false
@@ -3712,9 +3715,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-05 21:32:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-09-05 20:57:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-09-05 21:32:28 +0000"
     },
     "done": true
   },
@@ -3736,6 +3751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-05 21:32:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-09-05 20:19:04 +0000"
@@ -3751,6 +3772,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-05 20:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-05 21:32:45 +0000"
     },
     "done": true
   },

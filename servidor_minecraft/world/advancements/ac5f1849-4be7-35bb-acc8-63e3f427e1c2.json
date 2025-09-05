@@ -4336,6 +4336,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-05 21:27:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-05 20:58:11 +0000"
@@ -5044,6 +5050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 21:27:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-09-05 20:58:11 +0000"
@@ -5239,6 +5251,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-05 20:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 21:27:17 +0000"
     },
     "done": true
   },

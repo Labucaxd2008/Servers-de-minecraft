@@ -4936,3 +4936,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Sep2025 21:24:19.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 21:26:18.662] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raquel}[style={}] has been infected
 [05Sep2025 21:26:21.663] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Raquel}[style={}] has been infected
+[05Sep2025 21:26:46.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Raquel'/38412, l='ServerLevel[world]', x=1646.52, y=65.02, z=1659.83] died, message: 'Raquel was slain by Zombie'
+[05Sep2025 21:26:46.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Raquel'/38412, l='ServerLevel[world]', x=1646.52, y=65.02, z=1659.83] died: Raquel was slain by Zombie
+[05Sep2025 21:27:17.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Ice Bucket Challenge]
+[05Sep2025 21:28:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> zzzzzz
+[05Sep2025 21:29:19.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 21:29:19.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 21:29:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzz
+[05Sep2025 21:29:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzz
+[05Sep2025 21:29:59.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zz
+[05Sep2025 21:30:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> z
+[05Sep2025 21:34:19.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 21:34:19.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

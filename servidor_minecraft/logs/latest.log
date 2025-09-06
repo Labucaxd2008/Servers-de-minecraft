@@ -307,3 +307,6 @@ Things may not work well.
 [06Sep2025 03:25:07.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
 [06Sep2025 03:25:10.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/598, l='ServerLevel[world]', x=1703.03, y=98.00, z=1487.97]
 [06Sep2025 03:26:50.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/808, l='ServerLevel[world]', x=1720.57, y=86.00, z=1448.18]
+[06Sep2025 04:00:23.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebastt22 lost connection: Disconnected
+[06Sep2025 04:00:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 left the game
+[06Sep2025 04:00:23.667] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

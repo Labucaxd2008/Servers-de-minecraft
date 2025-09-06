@@ -5302,5 +5302,11 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-09-06 03:38:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

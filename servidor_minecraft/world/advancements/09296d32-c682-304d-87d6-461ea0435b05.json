@@ -2455,6 +2455,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-07 03:46:22 +0000",
       "chicken": "2025-09-07 02:31:57 +0000",
       "cooked_mutton": "2025-09-05 21:25:39 +0000",
       "sweet_berries": "2025-09-05 20:55:09 +0000",
@@ -4778,6 +4779,24 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-09-07 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-09-07 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-09-07 03:38:32 +0000"
+    },
+    "done": true
+  },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-09-07 03:40:16 +0000"
     },
     "done": true
   },

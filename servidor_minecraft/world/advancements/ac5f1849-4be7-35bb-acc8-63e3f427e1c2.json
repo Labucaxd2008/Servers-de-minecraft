@@ -5364,6 +5364,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-07 03:07:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5379,6 +5391,18 @@
   "mca:recipes/decorations/black_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-07 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-07 02:51:34 +0000"
     },
     "done": true
   },
@@ -5400,6 +5424,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-09-07 02:16:39 +0000"
@@ -5409,6 +5445,18 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
     },
     "done": true
   },
@@ -5442,6 +5490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
@@ -5460,6 +5514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5469,6 +5529,12 @@
   "mca:recipes/decorations/light_gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 02:51:34 +0000"
     },
     "done": true
   },
@@ -5487,6 +5553,30 @@
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
     },
     "done": true
   },
@@ -5514,6 +5604,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5523,6 +5619,18 @@
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
     },
     "done": true
   },
@@ -5574,15 +5682,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-07 03:07:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-07 02:51:33 +0000"
     },
     "done": true
   },
@@ -5628,6 +5754,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-09-07 02:16:39 +0000"
@@ -5637,6 +5769,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-09-07 02:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-09-07 03:07:16 +0000"
     },
     "done": true
   },
@@ -5790,6 +5928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-09-07 02:16:08 +0000"
@@ -5865,6 +6009,12 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 02:51:50 +0000"
     },
     "done": true
   },

@@ -319,3 +319,5 @@
 [07Sep2025 04:29:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has reached the goal [Strong or Careful]
 [07Sep2025 04:29:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk hit the ground too hard
 [07Sep2025 04:29:17.536] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
+[07Sep2025 04:39:42.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rojuulzwk lost connection: Disconnected
+[07Sep2025 04:39:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk left the game

@@ -2464,6 +2464,7 @@
       "apple": "2025-09-07 00:26:10 +0000",
       "potato": "2025-09-07 01:39:22 +0000",
       "pumpkin_pie": "2025-09-07 03:08:58 +0000",
+      "mutton": "2025-09-07 04:35:07 +0000",
       "bread": "2025-09-05 21:06:18 +0000",
       "rotten_flesh": "2025-09-07 01:05:54 +0000"
     },
@@ -5065,6 +5066,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-09-07 04:29:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-09-07 03:53:29 +0000"
@@ -5164,6 +5171,12 @@
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-07 04:33:14 +0000"
     },
     "done": true
   },
@@ -5296,6 +5309,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-09-07 04:33:14 +0000"
     },
     "done": true
   },

@@ -278,3 +278,15 @@
 [07Sep2025 02:51:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk was shot by Skeleton
 [07Sep2025 02:51:47.070] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
 [07Sep2025 02:53:07.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Funeral Theft]
+[07Sep2025 03:08:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [We Need to Go Deeper]
+[07Sep2025 03:08:33.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rojuulzwk moved too quickly! 9.77555967086596,-2.8291870918577033,1.3190741485566377
+[07Sep2025 03:08:33.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[07Sep2025 03:09:29.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rojuulzwk lost connection: Disconnected
+[07Sep2025 03:09:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk left the game
+[07Sep2025 03:09:43.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rojuulzwk[/172.25.102.204:52830] logged in with entity id 45849 at (1746.9386016319459, -27.0, 1759.699999988079)
+[07Sep2025 03:09:43.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk joined the game
+[07Sep2025 03:09:43.370] [Server thread/INFO] [Jade/]: Syncing config to Rojuulzwk (09296d32-c682-304d-87d6-461ea0435b05)
+[07Sep2025 03:15:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk was slain by Zombie
+[07Sep2025 03:15:09.674] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
+[07Sep2025 03:17:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk hit the ground too hard
+[07Sep2025 03:17:43.785] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved

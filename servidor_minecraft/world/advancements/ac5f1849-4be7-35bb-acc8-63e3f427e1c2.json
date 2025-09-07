@@ -5400,6 +5400,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-07 03:08:33 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-09-07 02:51:34 +0000"
@@ -5460,6 +5466,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5490,6 +5502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-07 02:51:34 +0000"
@@ -5499,6 +5517,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
     },
     "done": true
   },
@@ -5526,6 +5550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
@@ -5547,6 +5577,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
     },
     "done": true
   },
@@ -5688,6 +5724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-07 03:08:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5745,6 +5787,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-07 03:08:31 +0000"
     },
     "done": true
   },
@@ -5826,6 +5874,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5874,6 +5928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5898,6 +5958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-09-07 02:22:50 +0000"
@@ -5913,6 +5979,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-09-07 02:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-07 03:08:31 +0000"
     },
     "done": true
   },

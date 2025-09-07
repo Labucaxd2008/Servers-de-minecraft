@@ -2453,6 +2453,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-09-07 02:31:57 +0000",
       "cooked_mutton": "2025-09-05 21:25:39 +0000",
       "sweet_berries": "2025-09-05 20:55:09 +0000",
       "beef": "2025-09-05 20:45:08 +0000",
@@ -3604,6 +3605,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-07 01:01:31 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-09-07 02:36:34 +0000"
     },
     "done": true
   },

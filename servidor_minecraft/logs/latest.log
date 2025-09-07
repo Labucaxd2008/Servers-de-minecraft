@@ -261,3 +261,6 @@
 [07Sep2025 02:23:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk was shot by Skeleton
 [07Sep2025 02:23:27.772] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
 [07Sep2025 02:23:38.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> Rojuulzw
+[07Sep2025 02:30:23.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1582, y=66, z=1793} BlockPos{x=1582, y=64, z=1793}
+[07Sep2025 02:30:29.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1554, y=67, z=1788} BlockPos{x=1555, y=65, z=1788}
+[07Sep2025 02:36:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Friendship Found]

@@ -5309,6 +5309,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-09-07 00:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-09-07 00:44:14 +0000"
@@ -5330,12 +5336,6 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-09-07 00:44:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-09-07 00:20:57 +0000"
     },
     "done": true
   },

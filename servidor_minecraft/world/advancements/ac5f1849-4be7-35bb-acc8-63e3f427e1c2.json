@@ -1498,6 +1498,7 @@
       "minecraft:skeleton": "2025-09-05 02:30:15 +0000",
       "minecraft:spider": "2025-09-05 03:43:18 +0000",
       "minecraft:creeper": "2025-09-05 03:25:56 +0000",
+      "minecraft:witch": "2025-09-07 00:20:57 +0000",
       "minecraft:zombie": "2025-09-05 02:30:17 +0000"
     },
     "done": false
@@ -5305,6 +5306,12 @@
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2025-09-06 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-09-07 00:20:57 +0000"
     },
     "done": true
   },

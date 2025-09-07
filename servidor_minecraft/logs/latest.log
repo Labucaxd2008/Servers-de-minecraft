@@ -23,3 +23,37 @@
 [07Sep2025 00:22:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported Rojuulzwk to sebastt22]
 [07Sep2025 00:23:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> zzz
 [07Sep2025 00:23:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> duerman
+[07Sep2025 00:24:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> nooooo
+[07Sep2025 00:24:55.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> se me quemaron las cosas
+[07Sep2025 00:26:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> donde esta mi maria
+[07Sep2025 00:27:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> diablos que tetotas
+[07Sep2025 00:28:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> noooo maria
+[07Sep2025 00:30:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk was slain by Iron Golem
+[07Sep2025 00:30:34.458] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
+[07Sep2025 00:31:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has reached the goal [Chain Death]
+[07Sep2025 00:31:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk was slain by Iron Golem
+[07Sep2025 00:31:09.456] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
+[07Sep2025 00:32:33.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lucas'/245, l='ServerLevel[world]', x=1671.04, y=69.00, z=1684.29] died, message: 'Lucas was slain by Rojuulzwk'
+[07Sep2025 00:32:33.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lucas'/245, l='ServerLevel[world]', x=1671.04, y=69.00, z=1684.29] died: Lucas was slain by Rojuulzwk
+[07Sep2025 00:33:13.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Manuel'/250, l='ServerLevel[world]', x=1599.30, y=63.00, z=1630.51] died, message: 'Manuel was slain by Zombyy'
+[07Sep2025 00:33:13.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Manuel'/250, l='ServerLevel[world]', x=1599.30, y=63.00, z=1630.51] died: Manuel was slain by Zombyy
+[07Sep2025 00:37:24.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Álvaro'/11190, l='ServerLevel[world]', x=1650.51, y=64.00, z=1689.30] died, message: 'Álvaro was slain by Rojuulzwk'
+[07Sep2025 00:37:24.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Álvaro'/11190, l='ServerLevel[world]', x=1650.51, y=64.00, z=1689.30] died: Álvaro was slain by Rojuulzwk
+[07Sep2025 00:38:47.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> zzzzz
+[07Sep2025 00:38:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzz
+[07Sep2025 00:38:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzz
+[07Sep2025 00:38:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzzz
+[07Sep2025 00:38:54.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzzzzz
+[07Sep2025 00:38:57.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzz
+[07Sep2025 00:38:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzzz
+[07Sep2025 00:39:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzzzz
+[07Sep2025 00:39:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombyy> zzzz
+[07Sep2025 00:39:08.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> zzzz
+[07Sep2025 00:39:12.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> o me levanto
+[07Sep2025 00:39:15.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rojuulzwk> to caliente
+[07Sep2025 00:39:15.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombyy lost connection: Disconnected
+[07Sep2025 00:39:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombyy left the game
+[07Sep2025 00:39:15.645] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Sep2025 00:39:47.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombyy[/172.25.177.160:12073] logged in with entity id 12273 at (1661.5, 70.5625, 1660.5)
+[07Sep2025 00:39:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombyy joined the game
+[07Sep2025 00:39:47.338] [Server thread/INFO] [Jade/]: Syncing config to Zombyy (91d750fa-972b-38a0-bfcc-cbaeefb52e83)

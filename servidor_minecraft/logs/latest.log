@@ -296,3 +296,11 @@
 [07Sep2025 03:25:25.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 burned to death
 [07Sep2025 03:25:25.722] [Server thread/INFO] [tombstone/]: The player sebastt22 has successfully been saved
 [07Sep2025 03:25:53.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported sebastt22 to 1612.500000, 74.500000, 1648.500000]
+[07Sep2025 03:28:56.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rojuulzwk lost connection: Disconnected
+[07Sep2025 03:28:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk left the game
+[07Sep2025 03:29:27.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rojuulzwk[/172.25.102.204:53050] logged in with entity id 52060 at (1762.699999988079, 5.0, 1833.699999988079)
+[07Sep2025 03:29:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk joined the game
+[07Sep2025 03:29:27.778] [Server thread/INFO] [Jade/]: Syncing config to Rojuulzwk (09296d32-c682-304d-87d6-461ea0435b05)
+[07Sep2025 03:29:28.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Teleported Rojuulzwk to sebastt22]
+[07Sep2025 03:38:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement ['Til Death Do Us Part]
+[07Sep2025 03:39:00.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Next Generation]

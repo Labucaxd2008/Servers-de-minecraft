@@ -322,3 +322,5 @@
 [07Sep2025 04:39:42.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rojuulzwk lost connection: Disconnected
 [07Sep2025 04:39:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk left the game
 [07Sep2025 04:57:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [Bone Crusher]
+[07Sep2025 05:07:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set own game mode to Creative Mode]
+[07Sep2025 05:08:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set own game mode to Survival Mode]

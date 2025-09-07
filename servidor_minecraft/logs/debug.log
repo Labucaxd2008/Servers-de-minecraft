@@ -4292,3 +4292,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Sep2025 04:57:21.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Sep2025 04:57:21.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Sep2025 04:57:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has reached the goal [Bone Crusher]
+[07Sep2025 05:02:21.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 05:02:21.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 05:07:21.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 05:07:21.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 05:07:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set own game mode to Creative Mode]
+[07Sep2025 05:08:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sebastt22: Set own game mode to Survival Mode]
+[07Sep2025 05:12:21.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 05:12:21.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 05:17:21.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 05:17:21.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

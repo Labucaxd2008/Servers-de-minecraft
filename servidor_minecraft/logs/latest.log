@@ -250,3 +250,4 @@
 [07Sep2025 01:25:10.815] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aristeu}[style={}] has been infected
 [07Sep2025 01:29:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk hit the ground too hard
 [07Sep2025 01:29:25.650] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
+[07Sep2025 01:44:45.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1722, y=65, z=1675} BlockPos{x=1722, y=64, z=1674}

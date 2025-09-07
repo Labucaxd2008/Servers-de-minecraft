@@ -3751,6 +3751,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-07 02:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-09-07 01:44:49 +0000"
@@ -3820,6 +3826,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-07 01:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-07 02:21:42 +0000"
     },
     "done": true
   },
@@ -4117,6 +4129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-07 02:21:42 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-09-07 01:01:31 +0000"
@@ -4207,6 +4225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-07 02:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-09-07 01:05:32 +0000"
@@ -4267,6 +4291,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-07 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-07 02:21:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pink_simple_sofa": {
     "criteria": {
       "has_wool": "2025-09-07 01:36:33 +0000"
@@ -4306,6 +4342,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-09-07 01:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-07 02:22:12 +0000"
     },
     "done": true
   },

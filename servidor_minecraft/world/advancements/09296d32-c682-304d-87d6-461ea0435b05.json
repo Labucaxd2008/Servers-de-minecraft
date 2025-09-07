@@ -2501,7 +2501,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-07 02:08:47 +0000",
       "minecraft:skeleton": "2025-09-07 00:24:32 +0000",
+      "minecraft:vindicator": "2025-09-07 02:09:33 +0000",
       "minecraft:spider": "2025-09-07 01:05:45 +0000",
       "minecraft:zombie": "2025-09-05 20:49:13 +0000"
     },
@@ -3617,6 +3619,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-07 02:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-09-07 01:02:13 +0000"
@@ -3776,6 +3784,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-09-07 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-07 02:07:27 +0000"
     },
     "done": true
   },
@@ -4073,6 +4087,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-09-07 02:07:50 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-09-07 01:37:11 +0000"
@@ -4268,6 +4288,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-09-07 01:55:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-09-07 02:08:47 +0000"
     },
     "done": true
   },

@@ -251,3 +251,10 @@
 [07Sep2025 01:29:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk hit the ground too hard
 [07Sep2025 01:29:25.650] [Server thread/INFO] [tombstone/]: The player Rojuulzwk has successfully been saved
 [07Sep2025 01:44:45.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1722, y=65, z=1675} BlockPos{x=1722, y=64, z=1674}
+[07Sep2025 02:07:43.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1654, y=54, z=1795} BlockPos{x=1654, y=55, z=1795}
+[07Sep2025 02:07:50.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has completed the challenge [Hunted]
+[07Sep2025 02:08:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Take Aim]
+[07Sep2025 02:08:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Ambush]
+[07Sep2025 02:10:46.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1668, y=64, z=1622} BlockPos{x=1669, y=63, z=1622}
+[07Sep2025 02:10:46.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1668, y=64, z=1622} BlockPos{x=1669, y=63, z=1622}
+[07Sep2025 02:10:46.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1668, y=64, z=1622} BlockPos{x=1669, y=63, z=1622}

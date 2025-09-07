@@ -5442,9 +5442,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-07 02:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5616,6 +5628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5643,6 +5661,18 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-09-07 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5694,6 +5724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
@@ -5703,6 +5739,12 @@
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5727,6 +5769,18 @@
   "mca:recipes/decorations/light_blue_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5772,9 +5826,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-09-07 03:57:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5811,6 +5877,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-07 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5874,6 +5946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-09-07 03:08:31 +0000"
@@ -5919,6 +5997,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -5991,6 +6075,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-09-07 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },
@@ -6198,6 +6288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 03:57:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-09-07 01:45:48 +0000"
@@ -6231,6 +6327,12 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-09-07 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-09-07 03:57:05 +0000"
     },
     "done": true
   },

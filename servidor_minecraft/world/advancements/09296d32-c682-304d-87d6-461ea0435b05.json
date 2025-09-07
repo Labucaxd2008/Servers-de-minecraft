@@ -151,6 +151,7 @@
       "minecraft:river": "2025-09-05 20:43:10 +0000",
       "minecraft:lukewarm_ocean": "2025-09-07 03:04:44 +0000",
       "minecraft:forest": "2025-09-07 02:55:04 +0000",
+      "minecraft:jungle": "2025-09-07 03:53:33 +0000",
       "minecraft:savanna": "2025-09-05 21:10:30 +0000"
     },
     "done": false
@@ -4782,9 +4783,351 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2025-09-07 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-09-07 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
     },
     "done": true
   },
@@ -4794,9 +5137,201 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
   "mca:monster": {
     "criteria": {
       "baby_drop_attempts": "2025-09-07 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-07 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-09-07 03:48:23 +0000"
     },
     "done": true
   },

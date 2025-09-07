@@ -305,3 +305,6 @@
 [07Sep2025 03:38:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement ['Til Death Do Us Part]
 [07Sep2025 03:39:00.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [Next Generation]
 [07Sep2025 03:40:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rojuulzwk has made the advancement [You Monster!]
+[07Sep2025 03:57:38.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1670, y=68, z=1562} BlockPos{x=1672, y=66, z=1561}
+[07Sep2025 03:57:38.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1670, y=68, z=1562} BlockPos{x=1672, y=66, z=1561}
+[07Sep2025 03:57:38.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1670, y=68, z=1562} BlockPos{x=1672, y=66, z=1561}
